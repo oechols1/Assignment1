@@ -59,9 +59,9 @@ header {
 
 .dark-theme{
     background-color: #084029;
-    color: #fffdc4;
+    color: #000000;
 }
 
-.dark-theme h1, .dark-theme h2 {
-    color:rgb(95, 12, 95)
+.dark-theme .container {
+    background-color:violet
 }
