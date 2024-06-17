@@ -1,4 +1,4 @@
-/* Reset default browser styles */
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -54,4 +54,14 @@ header {
     margin-bottom: 15px;
     border-radius: 8px;
     box-shadow: 0 0 5px rgba(0,0,0,0.2);
+}
+
+
+.dark-theme{
+    background-color: #084029;
+    color: #fffdc4;
+}
+
+.dark-theme h1, .dark-theme h2 {
+    color:rgb(95, 12, 95)
 }
